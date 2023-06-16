@@ -1,0 +1,5 @@
+{
+  "name": "ndt_map",
+  "dependencies": {"pcl_colcon"},
+  "hooks": []
+}
